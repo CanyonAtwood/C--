@@ -32,6 +32,3 @@
 * Overall I need to make more comments and be better organized 
 
 
-
-Here is my youtube video
-https://youtu.be/cjmhmhSeRLQ
